@@ -1,7 +1,7 @@
-requests>=2.31.0
-urllib3>=2.0.0
-customtkinter>=5.2.0
-Pillow>=10.0.0
+requests>=2.34.2
+urllib3>=2.7.0
+customtkinter>=5.2.2
+Pillow>=12.2.0
 
 # Build-only dependency (only install if you want to build .exe):
 # pip install nuitka
