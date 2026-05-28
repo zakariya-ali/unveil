@@ -363,7 +363,7 @@ class ValorantAnalyzerApp(ctk.CTk):
         self.footer_label.pack(side="left", padx=16)
 
         self.credit_label = ctk.CTkLabel(
-            bar, text="Made by woofy_66",
+            bar, text="",
             font=ctk.CTkFont(size=10, weight="bold"), text_color="#888",
         )
         self.credit_label.pack(side="right", padx=16)

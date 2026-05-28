@@ -89,6 +89,3 @@ Get a free key at [https://docs.henrikdev.xyz](https://docs.henrikdev.xyz).
 - Flags are heuristic. They indicate statistical outliers, not confirmed cheating or smurfing.
 - The app does not modify any game files and does not interact with the game client beyond reading the lockfile.
 
-## Credits
-
-Made by woofy_66
